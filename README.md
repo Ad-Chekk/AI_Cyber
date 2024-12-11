@@ -4,3 +4,7 @@ you can start the scraper using the command - scrapy crawl <spider_name> #the na
 for example run the command - scrapy crawl rapid7
                             - scrapy crawl cyware
                             
+possible sites - rapid7 - cve 
+                 cyware
+                 nciipc
+                 threatpost
